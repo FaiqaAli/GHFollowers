@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  FavouriteVC.swift
 //  GHFollowers
 //
 //  Created by faiqa on 8/1/25.
@@ -7,13 +7,11 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class FavouriteVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        view.backgroundColor = .systemBlue
     }
 
-
 }
-
